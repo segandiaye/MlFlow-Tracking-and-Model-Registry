@@ -8,8 +8,6 @@ How to use this module step by step :
 
 First of all you should add `eval "$(direnv hook bash)"` to your `~/.zshrc` or `~/.bashrc` :
 
-```bash
-
 Open first terminal :
 
 ```bash
