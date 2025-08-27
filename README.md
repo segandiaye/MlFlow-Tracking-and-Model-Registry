@@ -39,3 +39,11 @@ The result should look like the image below if everything is OK :
 Go to http://localhost:5000 you should see as shown in the image below :
 
 ![3](imgs/3.png)
+
+# Perfect
+
+Running :
+
+```bash
+prefect server start
+```
