@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/admin/code/segandiaye/MLOPenguins/mlruns/768002766036759581/2aa6676fde97418eb57a058ca2138010/artifacts
+end_time: 1756233230565
+entry_point_name: ''
+experiment_id: '768002766036759581'
+lifecycle_stage: active
+run_id: 2aa6676fde97418eb57a058ca2138010
+run_name: youthful-ray-774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756233225997
+status: 3
+tags: []
+user_id: admin

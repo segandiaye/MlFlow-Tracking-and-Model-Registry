@@ -1,0 +1,10 @@
+artifact_location: file:///Users/admin/code/segandiaye/MLOPenguins/mlruns/768002766036759581/models/m-6e8ae350b9664354b985ebc7227aa87d/artifacts
+creation_timestamp: 1756233226075
+experiment_id: '768002766036759581'
+last_updated_timestamp: 1756233230519
+model_id: m-6e8ae350b9664354b985ebc7227aa87d
+model_type: null
+name: logistic_regression
+source_run_id: 2aa6676fde97418eb57a058ca2138010
+status: 2
+status_message: null

@@ -4,3 +4,7 @@ seaborn
 plotly-express
 loguru
 mlflow
+prefect
+fastapi
+uvicorn
+python-multipart

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735770145784380128/c90f1d84fcd8473cbc9b388fa9135a27/artifacts
+end_time: 1756329368169
+entry_point_name: ''
+experiment_id: '735770145784380128'
+lifecycle_stage: active
+run_id: c90f1d84fcd8473cbc9b388fa9135a27
+run_name: bouncy-mare-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756329350543
+status: 3
+tags: []
+user_id: admin
