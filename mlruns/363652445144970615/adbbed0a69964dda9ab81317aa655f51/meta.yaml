@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/363652445144970615/adbbed0a69964dda9ab81317aa655f51/artifacts
+end_time: 1756233738988
+entry_point_name: ''
+experiment_id: '363652445144970615'
+lifecycle_stage: active
+run_id: adbbed0a69964dda9ab81317aa655f51
+run_name: efficient-slug-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756233731404
+status: 3
+tags: []
+user_id: admin

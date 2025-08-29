@@ -1,0 +1,37 @@
+artifact_path: mlflow-artifacts:/363652445144970615/models/m-3b28bbdb1b6d4a56880b1449f8294fae/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.1
+model_id: m-3b28bbdb1b6d4a56880b1449f8294fae
+model_size_bytes: 2516
+model_uuid: m-3b28bbdb1b6d4a56880b1449f8294fae
+prompts: null
+run_id: 31b2f9684a9e4614ad277a8f2fd5b686
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "cat__sex_Male", "required": true}, {"type":
+    "double", "name": "num__bill_length_mm", "required": true}, {"type": "double",
+    "name": "num__bill_depth_mm", "required": true}, {"type": "double", "name": "num__flipper_length_mm",
+    "required": true}, {"type": "double", "name": "num__body_mass_g", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "object", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-26 18:36:36.099456'
